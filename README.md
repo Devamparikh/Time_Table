@@ -1,2 +1,2 @@
 # Time_Table
-Time Table managment project
+Time Table management project
